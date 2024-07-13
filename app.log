@@ -1,0 +1,29 @@
+2024-04-04 21:24:48,635 [INFO ] com.lao.step_definitions.common_step_definitions [main] Execution started
+2024-04-04 21:24:48,650 [INFO ] com.lao.step_definitions.common_step_definitions [main] loading the properties file
+2024-04-04 21:24:48,654 [INFO ] com.lao.step_definitions.common_step_definitions [main] checking if the driver is null or not
+2024-04-04 21:24:48,656 [INFO ] com.lao.step_definitions.common_step_definitions [main] driver is null instantiating it
+2024-04-04 21:24:54,771 [INFO ] webdriver_manager.driver_manager [main] launchingchrome
+2024-04-04 21:24:54,809 [INFO ] com.lao.step_definitions.Login [main] url opening
+2024-04-04 21:24:56,753 [INFO ] com.lao.step_definitions.Login [main] entering credentials
+2024-04-04 21:24:57,370 [INFO ] com.lao.step_definitions.Login [main] credentials entered successfully
+2024-04-04 21:24:57,372 [INFO ] com.lao.step_definitions.Login [main] clicking log button
+2024-04-04 21:25:03,018 [INFO ] com.lao.step_definitions.Logout [main] clicking burger button
+2024-04-04 21:25:05,084 [INFO ] com.lao.step_definitions.Logout [main] clicking logout button
+2024-04-04 21:25:05,796 [INFO ] com.lao.step_definitions.common_step_definitions [main] Execution started
+2024-04-04 21:25:05,796 [INFO ] com.lao.step_definitions.common_step_definitions [main] loading the properties file
+2024-04-04 21:25:05,797 [INFO ] com.lao.step_definitions.common_step_definitions [main] checking if the driver is null or not
+2024-04-04 21:25:05,798 [INFO ] com.lao.step_definitions.Login [main] url opening
+2024-04-04 21:25:05,879 [INFO ] com.lao.step_definitions.Login [main] entering credentials
+2024-04-04 21:25:06,185 [INFO ] com.lao.step_definitions.Login [main] credentials entered successfully
+2024-04-04 21:25:06,187 [INFO ] com.lao.step_definitions.Login [main] clicking log button
+2024-04-04 21:25:10,807 [INFO ] com.lao.step_definitions.Logout [main] clicking burger button
+2024-04-04 21:25:12,907 [INFO ] com.lao.step_definitions.Logout [main] clicking logout button
+2024-04-04 21:25:13,113 [INFO ] com.lao.step_definitions.common_step_definitions [main] Execution started
+2024-04-04 21:25:13,113 [INFO ] com.lao.step_definitions.common_step_definitions [main] loading the properties file
+2024-04-04 21:25:13,114 [INFO ] com.lao.step_definitions.common_step_definitions [main] checking if the driver is null or not
+2024-04-04 21:25:13,115 [INFO ] com.lao.step_definitions.Login [main] url opening
+2024-04-04 21:25:13,200 [INFO ] com.lao.step_definitions.Login [main] entering credentials
+2024-04-04 21:25:13,570 [INFO ] com.lao.step_definitions.Login [main] credentials entered successfully
+2024-04-04 21:25:13,573 [INFO ] com.lao.step_definitions.Login [main] clicking log button
+2024-04-04 21:25:23,020 [INFO ] com.lao.step_definitions.Logout [main] clicking burger button
+2024-04-04 21:25:25,126 [INFO ] com.lao.step_definitions.Logout [main] clicking logout button

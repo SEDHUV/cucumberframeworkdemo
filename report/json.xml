@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="4" tests="4" time="0">
+    <testcase classname="valid login feature for saucedemo labs" name="login function data driven" time="0">
+        <skipped>
+            <![CDATA[Given user on login page....................................................undefined
+When user enters below credentials header"standard_user" and "secret_sauce".undefined
+And clicked login button....................................................undefined
+Then user should be navigated to the  homepage..............................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="valid login feature for saucedemo labs" name="login function data driven 2" time="0">
+        <skipped>
+            <![CDATA[Given user on login page....................................................undefined
+When user enters below credentials header"problem_user" and "secret_sauce"..undefined
+And clicked login button....................................................undefined
+Then user should be navigated to the  homepage..............................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="valid login feature for saucedemo labs" name="login function data driven 3" time="0">
+        <skipped>
+            <![CDATA[Given user on login page....................................................undefined
+When user enters below credentials header"performance_glitch_user" and "secret_sauce".undefined
+And clicked login button....................................................undefined
+Then user should be navigated to the  homepage..............................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="valid login feature for saucedemo labs" name="login function data driven 4" time="0">
+        <skipped>
+            <![CDATA[Given user on login page....................................................undefined
+When user enters below credentials header"locked_out_user" and "secret_sauce".undefined
+And clicked login button....................................................undefined
+Then user should be locked in the homepage..................................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>
